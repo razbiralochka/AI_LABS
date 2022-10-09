@@ -1,0 +1,14 @@
+In one, people deliberately tamed cats in a process of artificial selection, as they were useful predators of vermin.
+When you type simply cat command without any arguments, it just receives the stdin content and displays it in the stdout.
+Mac OS X Mountain Lion installs in place, so you won't need to create a separate disk or run the installation off an external drive.
+The fifth major update to Mac OS X, Leopard, contains such a mountain of features - more than 300 by Apple's count.
+Using cat command, the lines received from stdin can be redirected to a new file using redirection symbols.
+Cat command is one of the basic commands that you learned when you started in the Unix / Linux world.
+Cats can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small animals.
+In one, people deliberately tamed cats in a process of artificial selection, as they were useful predators of vermin.
+The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes and roughly 20,000 genes.
+Domestic cats are similar in size to the other members of the genus Felis, typically weighing between 4 and 5 kg (8.8 and 11.0 lb).
+Leopard was released on October 26, 2007 as the successor of Tiger (version 10.4), and is available in two editions.
+According to Apple, Leopard contains ads gorge  ada fsfs  over 300 changes and enhancements over its predecessor, Mac OS X Tiger.
+As of Mid 2010, some Apple computers have firmware factory installed which will no longer allow installation of Mac OS X Leopard.
+Since Apple moved to using Intel processors in their computers, the OSx86 community has developed and now also allows Mac OS X Tiger and later releases to be installed on non-Apple x86-based computers.
